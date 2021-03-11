@@ -1,0 +1,1 @@
+Elaborar un programa que muestre en pantalla los primeros "n" números primos, siendo "n" un valor ingresado por teclado.
